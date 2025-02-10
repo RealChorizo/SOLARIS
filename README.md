@@ -1,3 +1,4 @@
+# SOLARIS
 A Solana Blockchain Based Platform to Facilitate Transactions to Fund Land Development Projects
 This platform will be used as Proof of Concept for future investors in the technology
 I don't know code, but I can communicate and get ANYTHING done, is my attitude.
